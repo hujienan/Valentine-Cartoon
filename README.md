@@ -1,4 +1,4 @@
 # Valentine-Cartoon
-Valentine Cartoon based on front end technologies
+Valentine Cartoon developed by front-end technologies
 
-**Online [Demo](http://hujienan.github.io/Valentine/)**
+[Demo](https://hujienan.github.io/Valentine-Cartoon/)
